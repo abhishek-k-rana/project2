@@ -1,0 +1,35 @@
+[1mdiff --git a/clear b/clear[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a997969[m
+[1m--- /dev/null[m
+[1m+++ b/clear[m
+[36m@@ -0,0 +1,14 @@[m
+[32m+[m[32m[1mdiff --git a/delta-demo b/delta-demo[m[m
+[32m+[m[32m[1m--- a/delta-demo[m[m
+[32m+[m[32m[1m+++ b/delta-demo[m[m
+[32m+[m[32m[36m@@ -1 +1 @@[m[m
+[32m+[m[32m[31m-Subproject commit c95c48f6f8d0d0d24eb922e766d54c3a7d3417d5[m[m
+[32m+[m[32m[32m+[m[32mSubproject commit c95c48f6f8d0d0d24eb922e766d54c3a7d3417d5-dirty[m[m
+[32m+[m[32m[1mdiff --git a/project 2/app.js b/project 2/app.js[m[m
+[32m+[m[32m[1mnew file mode 100644[m[m
+[32m+[m[32m[1mindex 0000000..2d55656[m[m
+[32m+[m[32m[1m--- /dev/null[m[m
+[32m+[m[32m[1m+++ b/project 2/app.js[m[m[41m	[m
+[32m+[m[32m[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32m[32m+[m[32m//add new feature[m[m
+[32m+[m[32m\ No newline at end of file[m[m
+[1mdiff --git a/delta-demo b/delta-demo[m
+[1m--- a/delta-demo[m
+[1m+++ b/delta-demo[m
+[36m@@ -1 +1 @@[m
+[31m-Subproject commit c95c48f6f8d0d0d24eb922e766d54c3a7d3417d5[m
+[32m+[m[32mSubproject commit c95c48f6f8d0d0d24eb922e766d54c3a7d3417d5-dirty[m
+[1mdiff --git a/project 2/app.js b/project 2/app.js[m
+[1mindex bbd9b1f..64642ae 100644[m
+[1m--- a/project 2/app.js[m	
+[1m+++ b/project 2/app.js[m	
+[36m@@ -1 +1 @@[m
+[31m-//add new feature - form[m
+\ No newline at end of file[m
+[32m+[m[32m//add new feature - button[m
+\ No newline at end of file[m
